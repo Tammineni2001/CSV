@@ -1,0 +1,5 @@
+ID,NAME,AGE,GENDER,COUNTRY,EMAIL,PHONE,JOIN_DATE,SALARY,DEPARTMENT
+4,Ananya,22,Female,India,ananya@example.com,6543210987,05/02/23,48000,HR
+1,Aarav,25,Male,India,aarav@example.com,9876543210,15/01/22,50000,Engineering
+2,Diya,28,Female,India,diya@example.com,8765432109,22/03/21,55000,Marketing
+3,Vivaan,30,Male,India,vivaan@example.com,7654321098,10/07/20,60000,Sales
